@@ -15,5 +15,5 @@ python3 dijkstra.py -s START_X START_Y -g GOAL_X GOAL_Y -c CLEARANCE -f FILE_NAM
 
 For example:
 ```bash
-python3 dijkstra.py -s 5 5 -g 390 230 -c 5 -f visualize
+python3 dijkstra.py -s 5 5 -g 395 245 -c 5 -f visualize
 ```
