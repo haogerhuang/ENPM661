@@ -1,8 +1,6 @@
 # ENPM661 Project3-phase1 A-star
 
-## Requirement 
 ## Requirement
-
 
 - numpy==1.21
 - opencv==4.5
@@ -22,6 +20,6 @@ Arguments:
 -g: goal position, which should be three values: x, y, theta
 -c: clearance value, default: 5
 -r: radius of robot, default: 10
--step: step size for searching, default: 1
+-step: step size, default: 1
 -f: file name to store the visualization video, default: 'visualize'
 ```
