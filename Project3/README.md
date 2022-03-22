@@ -1,5 +1,9 @@
 # ENPM661 Project3-phase1 A-star
 
+## Team Members
+117517842 Pin-Hao Huang
+118307435 Po-Lun Chen
+
 ## Requirement
 
 - numpy==1.21
