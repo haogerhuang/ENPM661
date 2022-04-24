@@ -20,9 +20,9 @@ python3 astar_search.py -s 1 1 0 -g 9 9 -c 0.1 -rpm 15 50
 
 Arguments:
 ```bash
--s: start position, should be three values: x, y, theta
--g: goal position, should be two values: x, y
--c: clearance value, default: 0.1
--rpm: RPM of left/right wheels: left_rpm, right_rpm
+-s: start position, should be three values: x [meter], y [meter], theta [degree]
+-g: goal position, should be two values: x [meter], y [meter]
+-c: clearance value, default: 0.1 [meter]
+-rpm: RPM of left/right wheels: left_rpm [rpm], right_rpm [rpm]
 -f: file name to store the visualization video, default: 'visualize'
 ```
