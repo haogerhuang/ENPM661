@@ -26,6 +26,6 @@ Arguments:
 -s: start position, should be three values: x [meter], y [meter], theta [degree]
 -g: goal position, should be two values: x [meter], y [meter]
 -c: clearance value, default: 0.1 [meter]
--rpm: RPM of left/right wheels: left_rpm [rpm], right_rpm [rpm]
+-rpm: RPMs to construct actions: rpm1 [rpm], rpm2 [rpm]
 -f: file name to store the visualization video, default: 'visualize'
 ```
