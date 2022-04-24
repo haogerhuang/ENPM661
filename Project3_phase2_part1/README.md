@@ -4,7 +4,7 @@
 117517842 Pin-Hao Huang
 118307435 Po-Lun Chen
 
-## GIthub Link
+## Github Link
 https://github.com/haogerhuang/ENPM661/tree/main/Project3_phase2_part1
 
 ## Requirement
